@@ -1,0 +1,9 @@
+Model: Random Forest
+Cross-validation R²: 0.1678
+Test R²: 0.7967
+Test MSE: 905.3043
+Test MAE: 22.0360
+Test RMSE: 30.0883
+Number of features: 100
+Best parameters: {'max_depth': 10, 'min_samples_split': 10, 'n_estimators': 100}
+Feature scaling: No
