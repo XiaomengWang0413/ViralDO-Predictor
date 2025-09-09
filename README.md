@@ -215,7 +215,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 If you use this software in your research, please cite:
 
 ```
-ViralDO-Predictor: A Machine Learning Toolkit for Predicting Dissolved Oxygen 
+ 
 Levels Based on Viral Abundance Data
 ```
 
